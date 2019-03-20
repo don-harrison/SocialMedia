@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wrtg4040", "wrtg4040\wrtg4040.csproj", "{BFD36CB9-631D-4398-ABB2-AAC25F7D0765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD36CB9-631D-4398-ABB2-AAC25F7D0765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD36CB9-631D-4398-ABB2-AAC25F7D0765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD36CB9-631D-4398-ABB2-AAC25F7D0765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD36CB9-631D-4398-ABB2-AAC25F7D0765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D20FEC38-9FA8-45AC-8E5B-0848AF9A255F}
+	EndGlobalSection
+EndGlobal
